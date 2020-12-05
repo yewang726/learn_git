@@ -1,1 +1,6 @@
-This is the third file that was created to test git
+This is the file that was created to test git
+
+This is a line that is specific for branch 1
+
+The following contents in this document are some good feathers 
+that good to go to the other branches, e.g. branch 2 and the master branch
