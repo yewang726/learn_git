@@ -1,1 +1,3 @@
 This is the first file that was created to test git
+
+This is a line that is specific for branch 2
