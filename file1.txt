@@ -4,3 +4,6 @@ This is a line that is specific for the master branch
 
 I am making some changes in the master branch, try to commit and push. However, before it, I want to have a 'pull request'
 I am trying to make a pull request
+I made the pull request by opening it on the website, now I am going to try it by the command line:
+pg pr create
+ref: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
