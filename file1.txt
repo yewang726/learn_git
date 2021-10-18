@@ -3,3 +3,4 @@ This is the first file that was created to test git
 This is a line that is specific for the master branch
 
 I am making some changes in the master branch, try to commit and push. However, before it, I want to have a 'pull request'
+I am trying to make a pull request
